@@ -28,12 +28,13 @@ NoWaterPush
 NoEntityPush
 HUD (potion effects, coordinates, current speed etc)
 NameProtect (with functions for Kill Aura and friendly mobs)
+Tracerlines
+Waypoints
+PortalTracers
 
 Currently in progress:
 Freecam
-Tracerlines
 Breadcrumbs
-Waypoints
 Retard modes
 clickable gui
 Draggable chat
