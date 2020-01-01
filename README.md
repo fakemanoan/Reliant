@@ -31,6 +31,7 @@ NameProtect (with functions for Kill Aura and friendly mobs)
 Tracerlines
 Waypoints
 PortalTracers
+AutoFish
 
 Currently in progress:
 Freecam
