@@ -32,15 +32,19 @@ Tracerlines
 Waypoints
 PortalTracers
 AutoFish
+Freecam
+Draggable chat
+AntiHunger
+Regen
 
 Currently in progress:
-Freecam
+
 Breadcrumbs
 Retard modes
-clickable gui
-Draggable chat
-Regen
-AntiHunger
+clickable gui (75% complete)
+
+
+
 AntiCactus
 Phase/clip
 
