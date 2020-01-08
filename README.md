@@ -36,15 +36,12 @@ Freecam
 Draggable chat
 AntiHunger
 Regen
+clickable gui
 
 Currently in progress:
 
 Breadcrumbs
 Retard modes
-clickable gui (75% complete)
-
-
-
 AntiCactus
 Phase/clip
 
